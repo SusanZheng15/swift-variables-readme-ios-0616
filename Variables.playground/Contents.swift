@@ -4,9 +4,11 @@ print(favoriteCharacter)
 favoriteCharacter = "Tyrion Lannister"
 print(favoriteCharacter)
 
-favoriteCharacter = 76
+favoriteCharacter = "Gaiahad"  // changed it to my favorite character 
 
-let ultimateFavoriteCharacter = "Arya Stark"
+//favoriteCharacter = 76   //cannot initialize it with int b/c this variable is a type String
+
+let ultimateFavoriteCharacter = "Arya Stark"  //constant, cannot change value
 print(ultimateFavoriteCharacter)
 
-ultimateFavoriteCharacter = "Daenerys Targaryen"
+//ultimateFavoriteCharacter = "Daenerys Targaryen"  //why are you trying to change the value? i told you you can't ^^
